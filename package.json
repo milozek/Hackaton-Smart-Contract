@@ -33,6 +33,7 @@
         "typescript": "^4.8.4"
     },
     "dependencies": {
+        "dotenv": "^16.0.3",
         "git": "^0.1.5"
     }
 }
